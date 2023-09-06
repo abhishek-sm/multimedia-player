@@ -27,9 +27,9 @@ This Android application is a versatile multimedia player that allows users to s
 
 Audio Player: Enjoy your favorite music and audio content with a feature-rich audio player that supports various audio formats.
 
-PDF Viewer: Open and read PDF documents within the app. Navigate through pages, zoom in and out, and search for specific content.
+PDF Viewer: Open and read PDF documents within the app. Navigate through pages.
 
-Image Viewer: Browse through your image collection effortlessly. Zoom, pan, and view images in various formats..
+Image Viewer: Browse through your image collection effortlessly. 
 
 ## Installation
 
@@ -58,5 +58,6 @@ i would like to express my gratitude to the open-source community and the follow
 
 ExoPlayer: A powerful media player library for Android.
 MuPDF: A lightweight PDF viewer library.
+
 Glide: Image loading library for Android.
 
